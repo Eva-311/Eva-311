@@ -33,9 +33,7 @@ Repository:
 
 [GitHub link]
 
-## Support
 
-If you find this useful, consider giving the repository a ⭐
 ## About
 
 Exploring:
@@ -44,3 +42,7 @@ Exploring:
 - Digital products
 - Creator economy
 - AI workflows
+
+## Support
+
+If you find this useful, consider giving the repository a ⭐
