@@ -1,15 +1,16 @@
 # Hi, I'm Eva 👋
 
-
 I build automation systems for creators and indie hackers.
 
+Currently working on:
 
-## 🚀 Current Project
+🚀 Hermes Automation Examples
 
-### Hermes Automation Examples
-
-Open-source automation workflows for building automated digital businesses.
-
+Open-source workflow examples for:
+- Digital product delivery
+- Customer automation
+- No-code business systems
+  
 Built with:
 
 - Payhip
@@ -22,6 +23,10 @@ Built with:
 
 ### Hermes Automation Examples
 
+Latest release:
+
+[v0.1.0](https://github.com/Eva-311/hermes-automation-examples/releases/tag/v0.1.0)
+
 Automation workflows:
 
 - Digital product delivery
@@ -31,7 +36,7 @@ Automation workflows:
 
 Repository:
 
-[GitHub link]
+[Hermes Automation Examples](https://github.com/Eva-311/hermes-automation-examples)
 
 
 ## About
