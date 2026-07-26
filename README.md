@@ -33,7 +33,9 @@ Repository:
 
 [GitHub link]
 
+## Support
 
+If you find this useful, consider giving the repository a ⭐
 ## About
 
 Exploring:
