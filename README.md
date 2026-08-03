@@ -30,8 +30,7 @@ Hermes Automation Examples
 
 Repository:
 
-https://github.com/Eva-311/hermes-automation-examples
-
+[Hermes Automation Examples](https://github.com/Eva-311/hermes-automation-examples)
 
 ## 🌱 Exploring
 
@@ -39,3 +38,18 @@ https://github.com/Eva-311/hermes-automation-examples
 - No-code automation
 - AI workflows
 - Digital products
+
+
+## 🔗 Links
+
+- GitHub:
+  https://github.com/Eva-311
+
+- Indie Hackers:
+  https://www.indiehackers.com/
+
+- Dev.to:
+  https://dev.to/eva-nomados
+
+- Digital Product Store:
+  https://payhip.com/EvasDigitalToolkit
