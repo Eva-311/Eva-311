@@ -2,15 +2,12 @@
 
 I build automation systems for creators and indie hackers.
 
-Currently working on:
+## 🚀 Current Project
 
-🚀 Hermes Automation Examples
+### Hermes Automation Examples
 
-Open-source workflow examples for:
-- Digital product delivery
-- Customer automation
-- No-code business systems
-  
+Open-source automation workflows for digital product businesses.
+
 Built with:
 
 - Payhip
@@ -19,35 +16,26 @@ Built with:
 - Notion
 
 
-## Projects
+## 🔧 What I build
 
-### Hermes Automation Examples
+- Digital product delivery automation
+- Customer notification workflows
+- Business workflow systems
+- No-code automation
 
-Latest release:
 
-[v0.1.0](https://github.com/Eva-311/hermes-automation-examples/releases/tag/v0.1.0)
+## 📌 Featured Project
 
-Automation workflows:
-
-- Digital product delivery
-- Customer notification
-- Order tracking
-
+Hermes Automation Examples
 
 Repository:
 
-[Hermes Automation Examples](https://github.com/Eva-311/hermes-automation-examples)
+https://github.com/Eva-311/hermes-automation-examples
 
 
-## About
+## 🌱 Exploring
 
-Exploring:
-
-- No-code automation
-- Digital products
 - Creator economy
+- No-code automation
 - AI workflows
-
-## Support
-
-If you find this useful, consider giving the repository a ⭐
+- Digital products
